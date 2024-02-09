@@ -1,4 +1,4 @@
-# curved_bottom_navigation
+# Flutter Curved Bottom Navigation
 
 A new Flutter project.
 
